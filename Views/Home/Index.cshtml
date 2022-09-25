@@ -2,6 +2,11 @@
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
+    ViewData["Main_Title"] = ViewLocalize["Main_Title"];
+    ViewData["Description_Title"] = ViewLocalize["Description_Title"];
+    ViewData["Gallery_Title"] = ViewLocalize["Gallery_Title"];
+    ViewData["Contact_us"] = ViewLocalize["Contact_us"];
+    ViewData["Phone"] = ViewLocalize["Phone"];
 }
 
 
@@ -11,33 +16,29 @@
     <img style="text-align:center;"  src="img/test.png" width="100%">
 	
     <div style="text-align:center;" class="title_main">
-	    <h2><i class="fab fa-watchman-monitoring"></i>Яхта "Crux Avstralis"</h2> 
+	    <h2><i class="fab fa-watchman-monitoring"></i>@ViewLocalize["TitleOfName"] </h2> 
     </div>
-	<p style="text-align:center;">Vip-отдых для 10 пассажиров на элегантной яхте с тиковой палубой, в программе на выбор банкет или легкий фуршет, прогулка по Днепру.<br> Совершая незабываемую прогулку на яхте, вы сможете взглянуть на живописную природу Киева,<br> проплывая очаровательные пейзажи небольших островков Днепра, хаотично раскиданных по реке.<br> Яхта даст вам возможность ощутить что-то новое, не выезжая из города</p>
+	<p style="text-align:center;">@ViewLocalize["DescriptionTitleOfName"]</p>
 
     <div style="text-align:center;" class="title_main">
-	    <h2><i class="fas fa-coins"></i>Стоимость аренды:</h2>
+	    <h2><i class="fas fa-coins"></i>@ViewLocalize["TitlePriceOfRent"]</h2>
     </div>
     
     <div style="text-align:center;">
-	    <p>-2000 грн./час(минимальный заказ 3 часа)<br>
-	    -15000 грн./день с 10 часов до 20 часов<br>
-	    -22000 грн./сутки оренда на 24 часа</p>
+	    <p>@ViewLocalize["DescriptionTitlePriceOfRent"]</p>
     </div>
     
     <div style="text-align:center;">
-	    <p><div style="font-weight: bold;">Посадка и высадка гостей в яхт-клубе(дополнительно оплачиваеться):</div>+ 200грн.(к общей суме заказа) в Киевском городском крейсерском яхт-клубе<br>(ул. Днепровская Набережная 12а)<br> ближайшее метро Осокорки.</p>
+	    <p><div style="font-weight: bold;">@ViewLocalize["MoreInfo"]</p>
     </div>
         
     <div style="text-align:center;" class="title_main">
-	    <h2><i class="fas fa-users"></i>Вместимость:</h2>
+	    <h2><i class="fas fa-users"></i>@ViewLocalize["TitlePropertieYacht"]</h2>
     </div> 
-	    <p>Всего - 10 человек:<br>
-	    -10 человек оптимально<br>
-        -10 человек максимально</p>
+	    <p>@ViewLocalize["DescriptionTitlePropertieYacht"]</p>
 
     <div style="text-align:center;" class="title_main">
-	    <h2><i class="fas fa-map-marked-alt"></i>Местонахождение:</h2>
+	    <h2><i class="fas fa-map-marked-alt"></i>@ViewLocalize["TitleLocation"]</h2>
     </div>
-	<p>Улица Днепровская Набережная 12а, метро Осокорки.</p>
+	<p>@ViewLocalize["DescriptionTitleLocation"]</p>
  </div>
