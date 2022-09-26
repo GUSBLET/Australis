@@ -132,4 +132,7 @@
   <data name="Phone" xml:space="preserve">
     <value>Телефон:</value>
   </data>
+  <data name="Title_Page" xml:space="preserve">
+    <value>Головна</value>
+  </data>
 </root>

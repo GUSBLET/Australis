@@ -159,4 +159,7 @@
   <data name="TitlePropertieYacht" xml:space="preserve">
     <value>Вмістимість:</value>
   </data>
+  <data name="Title_Page" xml:space="preserve">
+    <value>Головна</value>
+  </data>
 </root>

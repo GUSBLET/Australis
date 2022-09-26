@@ -7,6 +7,37 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\img\Bob.jpg" />
+    <Content Remove="wwwroot\img\dod.jpg" />
+    <Content Remove="wwwroot\img\IMG_7941.JPG" />
+    <Content Remove="wwwroot\img\IMG_7944.JPG" />
+    <Content Remove="wwwroot\img\IMG_7949.JPG" />
+    <Content Remove="wwwroot\img\IMG_7951.JPG" />
+    <Content Remove="wwwroot\img\IMG_7952.JPG" />
+    <Content Remove="wwwroot\img\IMG_7957.JPG" />
+    <Content Remove="wwwroot\img\IMG_7958.JPG" />
+    <Content Remove="wwwroot\img\IMG_7959.JPG" />
+    <Content Remove="wwwroot\img\IMG_7996.JPG" />
+    <Content Remove="wwwroot\img\IMG_8031.JPG" />
+    <Content Remove="wwwroot\img\IMG_8032.JPG" />
+    <Content Remove="wwwroot\img\IMG_8033.JPG" />
+    <Content Remove="wwwroot\img\IMG_8036.JPG" />
+    <Content Remove="wwwroot\img\IMG_8039.JPG" />
+    <Content Remove="wwwroot\img\IMG_8040.JPG" />
+    <Content Remove="wwwroot\img\IMG_8041.JPG" />
+    <Content Remove="wwwroot\img\IMG_8042.JPG" />
+    <Content Remove="wwwroot\img\IMG_8043.JPG" />
+    <Content Remove="wwwroot\img\IMG_8353.JPG" />
+    <Content Remove="wwwroot\img\main.JPG" />
+    <Content Remove="wwwroot\img\photo_2021-06-06_17-10-26.jpg" />
+    <Content Remove="wwwroot\img\photo_2021-06-06_17-10-33.jpg" />
+    <Content Remove="wwwroot\img\photo_2021-06-10_23-18-03.jpg" />
+    <Content Remove="wwwroot\img\photo_2021-06-11_10-29-10.jpg" />
+    <Content Remove="wwwroot\img\ro.jpg" />
+    <Content Remove="wwwroot\img\Ron.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="wwwroot\css\box.css" />
     <None Include="wwwroot\css\menu.css" />
     <None Include="wwwroot\css\photo.css" />
@@ -1710,6 +1741,34 @@
     <None Include="wwwroot\fontawesome-free-5.15.2-web\webfonts\fa-solid-900.ttf" />
     <None Include="wwwroot\fontawesome-free-5.15.2-web\webfonts\fa-solid-900.woff" />
     <None Include="wwwroot\fontawesome-free-5.15.2-web\webfonts\fa-solid-900.woff2" />
+    <None Include="wwwroot\img\Bob.jpg" />
+    <None Include="wwwroot\img\dod.jpg" />
+    <None Include="wwwroot\img\IMG_7941.JPG" />
+    <None Include="wwwroot\img\IMG_7944.JPG" />
+    <None Include="wwwroot\img\IMG_7949.JPG" />
+    <None Include="wwwroot\img\IMG_7951.JPG" />
+    <None Include="wwwroot\img\IMG_7952.JPG" />
+    <None Include="wwwroot\img\IMG_7957.JPG" />
+    <None Include="wwwroot\img\IMG_7958.JPG" />
+    <None Include="wwwroot\img\IMG_7959.JPG" />
+    <None Include="wwwroot\img\IMG_7996.JPG" />
+    <None Include="wwwroot\img\IMG_8031.JPG" />
+    <None Include="wwwroot\img\IMG_8032.JPG" />
+    <None Include="wwwroot\img\IMG_8033.JPG" />
+    <None Include="wwwroot\img\IMG_8036.JPG" />
+    <None Include="wwwroot\img\IMG_8039.JPG" />
+    <None Include="wwwroot\img\IMG_8040.JPG" />
+    <None Include="wwwroot\img\IMG_8041.JPG" />
+    <None Include="wwwroot\img\IMG_8042.JPG" />
+    <None Include="wwwroot\img\IMG_8043.JPG" />
+    <None Include="wwwroot\img\IMG_8353.JPG" />
+    <None Include="wwwroot\img\main.JPG" />
+    <None Include="wwwroot\img\photo_2021-06-06_17-10-26.jpg" />
+    <None Include="wwwroot\img\photo_2021-06-06_17-10-33.jpg" />
+    <None Include="wwwroot\img\photo_2021-06-10_23-18-03.jpg" />
+    <None Include="wwwroot\img\photo_2021-06-11_10-29-10.jpg" />
+    <None Include="wwwroot\img\ro.jpg" />
+    <None Include="wwwroot\img\Ron.jpg" />
   </ItemGroup>
 
 </Project>
