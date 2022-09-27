@@ -117,17 +117,58 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Characteristics" xml:space="preserve">
+    <value>Characteristics</value>
+  </data>
   <data name="Contact_us" xml:space="preserve">
     <value>Contact us</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="DescriptionCharacteristics" xml:space="preserve">
+    <value>- Length: 16.7 m&lt;br&gt;
+- width: 5.4 m&lt;br&gt;
+- sediment: 2.2 m&lt;br&gt;
+- mast height: 20 m&lt;br&gt;
+- Engine power: 128 hp</value>
+  </data>
+  <data name="DescriptionEquipment" xml:space="preserve">
+    <value>- wooden deck&lt;br&gt;
+- an awning in the cockpit&lt;br&gt;
+- rubber boat&lt;br&gt;
+- there is no musical equipment</value>
+  </data>
+  <data name="DescriptionImportant_Information" xml:space="preserve">
+    <value>Take with you a change of shoes without heels with a soft non-branded sole (crocs, moccasins, trainers or you can go barefoot).</value>
+  </data>
+  <data name="DescriptionOnTheBoat" xml:space="preserve">
+    <value>- salon inside (company cabin) for 10 people&lt;br&gt;
+- 4 double cabins + 1 crew cabin&lt;br&gt;
+- kitchen (galley)&lt;br&gt;
+- summer shower in the stern on the deck&lt;br&gt;
+- 2 bathrooms</value>
+  </data>
+  <data name="DescriptionYacht" xml:space="preserve">
+    <value>The elegant yacht "Australia" is the best choice for connoisseurs of high class. The VIP-category ship is ideal for executive purposes and will be an excellent option for business negotiations in a private setting for 10 guests. The spacious salon of the yacht "Australia" is decorated in natural, restrained colors, a comfortable semicircular sofa around the table will allow guests to feel equal, which contributes to a trusting and warm atmosphere. 4 comfortable cabins will provide relaxation.</value>
   </data>
   <data name="Description_Title" xml:space="preserve">
     <value>Description</value>
   </data>
+  <data name="Equipment" xml:space="preserve">
+    <value>Equipment</value>
+  </data>
   <data name="Gallery_Title" xml:space="preserve">
     <value>Gallery</value>
   </data>
+  <data name="Important_Information" xml:space="preserve">
+    <value>Important information</value>
+  </data>
   <data name="Main_Title" xml:space="preserve">
     <value>Main</value>
+  </data>
+  <data name="OnTheBoat" xml:space="preserve">
+    <value>On the ship</value>
   </data>
   <data name="Phone" xml:space="preserve">
     <value>Phone:</value>

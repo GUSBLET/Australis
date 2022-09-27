@@ -10,10 +10,37 @@
     ViewData["Second_Title"] = ViewLocalize["Description_Title"];
     ViewData["Contact_us"] = ViewLocalize["Contact_us"];
     ViewData["Phone"] = ViewLocalize["Phone"];
-    
+
+
+
+    string[] dirs = Directory.GetFiles(@"wwwroot\img\GalleryPhoto\", "*JPG");
+    for(int i = 0; i < dirs.Length; i++)
+    {
+        int index = dirs[i].LastIndexOf("\\");
+        dirs[i] = dirs[i].Substring(index+1);
+    }
+
 }
 
 <div class="container gallery-container">
+        <div class="tz-gallery">
+            <div class="row">
+                @foreach(var item in dirs)
+                {
+                    <div class="col-sm-6 col-md-4">
+                        <div class="thumbnail">
+                            <a class="lightbox" href="..\img\GalleryPhoto\@item">
+                                <img src="..\img\GalleryPhoto\@item">
+                            </a>        
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+
+<@*div class="container gallery-container">
     <div class="tz-gallery">
         <div class="row">
             <div class="col-sm-6 col-md-4">
@@ -118,7 +145,7 @@
             </div>
         </div>
     </div>
-</div>
+</div>*@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
 <script>

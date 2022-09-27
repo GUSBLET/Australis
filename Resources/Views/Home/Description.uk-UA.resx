@@ -117,47 +117,58 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Characteristics" xml:space="preserve">
+    <value>Характеристики</value>
+  </data>
   <data name="Contact_us" xml:space="preserve">
     <value>Зв'язатися з нами</value>
   </data>
-  <data name="DescriptionTitleLocation" xml:space="preserve">
-    <value>Вулиця Дніпровська Набережна 12а, метро Осокорки.</value>
+  <data name="Description" xml:space="preserve">
+    <value>Опис</value>
   </data>
-  <data name="DescriptionTitleOfName" xml:space="preserve">
-    <value>Vip-відпочинок для 10 пасажирів на елегантній яхті з палубою тику, у програмі на вибір банкет або легкий фуршет, прогулянка по Дніпру.&lt;br&gt; Здійснюючи незабутню прогулянку на яхті, ви зможете поглянути на мальовничу природу Києва,&lt;br&gt; пропливаючи чарівні краєвиди невеликих острівців Дніпра, хаотично розкиданих річкою.&lt;br&gt;Яхта дасть вам можливість відчути щось нове, не виїжджаючи з міста</value>
+  <data name="DescriptionCharacteristics" xml:space="preserve">
+    <value>- Довжина: 16.7 м&lt;br&gt;
+- ширина: 5.4 м&lt;br&gt;
+- осаду: 2.2 м&lt;br&gt;
+- висота щогли: 20 м&lt;br&gt;
+- Потужність двигуна: 128 к.с.</value>
   </data>
-  <data name="DescriptionTitlePriceOfRent" xml:space="preserve">
-    <value>-2000 грн./год(мінімальний заказ 3 часа)&lt;br&gt;-15000 грн./день с 10 годин до 20 годин&lt;br&gt;-22000 грн./доба оренда на 24 години</value>
+  <data name="DescriptionEquipment" xml:space="preserve">
+    <value>- дерев'яна палуба&lt;br&gt;
+- тент у кокпіті&lt;br&gt;
+- гумовий човен&lt;br&gt;
+- музичного обладнання немає</value>
   </data>
-  <data name="DescriptionTitlePropertieYacht" xml:space="preserve">
-    <value>Всього - 10 людей:&lt;br&gt;-10 людей оптимально&lt;br&gt; -10 людей максимально</value>
+  <data name="DescriptionImportant_Information" xml:space="preserve">
+    <value>Візьміть із собою змінне взуття без підборів з м'якою немаркою підошвою (крокси, мокасини, кеди або можна босоніж).</value>
+  </data>
+  <data name="DescriptionOnTheBoat" xml:space="preserve">
+    <value>- салон усередині (кають-компанія) на 10 осіб&lt;br&gt;
+- 4 двоспальні каюти + 1 каюта команди&lt;br&gt;
+- кухня (камбуз)&lt;br&gt;
+- літній душ у кормі на палубі&lt;br&gt;
+- 2 санвузли</value>
+  </data>
+  <data name="DescriptionYacht" xml:space="preserve">
+    <value>Елегантна яхта «Австралія» – найкращий вибір для поціновувачів високого класу. Судно VIP-категорії ідеально підходить для представницьких цілей і стане відмінним варіантом для ділових переговорів у приватній обстановці на 10 гостей. Просторий салон яхти «Австралія» витриманий у натуральних стриманих кольорах, зручний напівкруглий диван навколо столу дозволить гостям почуватися рівноправними, що сприяє довірчій теплій атмосфері. 4 комфортабельні каюти забезпечать релакс.</value>
   </data>
   <data name="Description_Title" xml:space="preserve">
     <value>Опис</value>
   </data>
+  <data name="Equipment" xml:space="preserve">
+    <value>Устаткування</value>
+  </data>
   <data name="Gallery_Title" xml:space="preserve">
     <value>Галерея</value>
   </data>
-  <data name="Main_Title" xml:space="preserve">
-    <value>Головна</value>
+  <data name="Important_Information" xml:space="preserve">
+    <value>Важлива інформація</value>
   </data>
-  <data name="MoreInfo" xml:space="preserve">
-    <value>Посадка і висадка гостей в яхт-клубі (додатково оплачується):&lt;/div&gt;+ 200 грн.(до загальної суми замовлення) в Київському міському крейсерському яхт-клубі&lt;br&gt;(вул. Дніпровська Набережна 12а)&lt;br&gt; найближче метро Осокорки.</value>
+  <data name="OnTheBoat" xml:space="preserve">
+    <value>На судні</value>
   </data>
   <data name="Phone" xml:space="preserve">
     <value>Телефон:</value>
-  </data>
-  <data name="TitleLocation" xml:space="preserve">
-    <value>Місцезнаходження:</value>
-  </data>
-  <data name="TitleOfName" xml:space="preserve">
-    <value>Яхта "Crux Avstralis"</value>
-  </data>
-  <data name="TitlePriceOfRent" xml:space="preserve">
-    <value>Вартість оренди:</value>
-  </data>
-  <data name="TitlePropertieYacht" xml:space="preserve">
-    <value>Вмістимість:</value>
   </data>
   <data name="Title_Page" xml:space="preserve">
     <value>Головна</value>
